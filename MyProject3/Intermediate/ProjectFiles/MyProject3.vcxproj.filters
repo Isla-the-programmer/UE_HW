@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyProject3.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3445E388-BAF3-4D84-A0EC-46072FF6B05F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyProject3.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyProject3Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1838C642-8592-4530-8D8F-7BF5DDE78764}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MyProject3">
+      <UniqueIdentifier>{91F671B0-EF48-4DC0-A07D-F09203E47CA9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyProject3\MyProject3.Build.cs">
+      <Filter>Source\MyProject3</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyProject3\MyProject3.cpp">
+      <Filter>Source\MyProject3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject3\MyProject3.h">
+      <Filter>Source\MyProject3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject3\MyProject3GameModeBase.cpp">
+      <Filter>Source\MyProject3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject3\MyProject3GameModeBase.h">
+      <Filter>Source\MyProject3</Filter>
+    </ClInclude>
+    <Filter Include="Source\MyProject3\Private">
+      <UniqueIdentifier>{27CB307B-9296-4FC1-B4BB-4DE17A91FF14}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyProject3\Private\Test.cpp">
+      <Filter>Source\MyProject3\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\MyProject3\Public">
+      <UniqueIdentifier>{7F3AE255-2C74-440E-BCFB-1FAA7EB78A9C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\MyProject3\Public\Test.h">
+      <Filter>Source\MyProject3\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
