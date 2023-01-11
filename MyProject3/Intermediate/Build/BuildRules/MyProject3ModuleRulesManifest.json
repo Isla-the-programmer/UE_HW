@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\UEprojects\\MyProject3\\Source\\MyProject3\\MyProject3.Build.cs",
-		"C:\\UEprojects\\MyProject3\\Source\\MyProject3.Target.cs",
-		"C:\\UEprojects\\MyProject3\\Source\\MyProject3Editor.Target.cs"
-	],
-	"EngineVersion": "4.27.2"
-}
